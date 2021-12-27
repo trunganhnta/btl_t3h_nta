@@ -1,6 +1,7 @@
 {
+  https://github.com/trunganhnta/btl_t3h_nta/settings/pages
   "name": "my-page",
-  "homepage": "http://nta.com",
+  "homepage": "http://trunganhnta.github.io/btl_t3h_nta",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,7 +39,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-papes -b master -d build "
+    "deploy": "gh-papes -b main -d build "
   },
   "eslintConfig": {
     "extends": [
