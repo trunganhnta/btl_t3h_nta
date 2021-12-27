@@ -1,0 +1,44 @@
+.newUser {
+  flex: 4;
+  margin-left: 20px;
+}
+.newUserForm {
+  display: flex;
+  flex-wrap: wrap;
+}
+.newUserItem {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin-top: 20px;
+  margin-right: 50px;
+}
+.newUserItem label {
+  margin-bottom: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  color: gray;
+}
+.newUserItem input {
+  height: 40px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  padding-left: 10px;
+  font-size: 15px;
+}
+.custom-img input{
+  border: none !important;
+
+}
+.newUserButton {
+  width: 100px;
+  height: 38px;
+  margin-top: 20px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  background-color: yellow;
+  color: black;
+  font-weight: 500;
+  font-size: 20px;
+  cursor: pointer;
+}
